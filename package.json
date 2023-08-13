@@ -1,0 +1,6 @@
+{
+	"name": "takehome-db",
+	"scripts": {
+		"clean": "rm -rf node_modules build tsconfig.tsbuildinfo"
+	}
+}
